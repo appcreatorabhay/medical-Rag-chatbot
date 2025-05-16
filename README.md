@@ -1,1 +1,1 @@
-# medical-Rag-chatbot
+# Medical-chatbot
